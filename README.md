@@ -52,9 +52,9 @@ Check the :white_check_mark: Todos & :x: Not Todos
 
 :arrow_right: List with examples loops in C#. (Use your journal MD file)
 
-:arrow_right: what the advantage and disadvantage of coding loops? (Use your journal MD file)
+:arrow_right: What are advantages and disadvantages of coding loops? (Use your journal MD file)
 
-:arrow_right: what is the difference in between loops in c# and javascript? (Use your journal MD file)
+:arrow_right: What are the differences in syntax between loops in c# and javascript? (Use your journal MD file)
 
 ## :books: Resources 
 
